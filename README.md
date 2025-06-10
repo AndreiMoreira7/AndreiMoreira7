@@ -37,7 +37,4 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sempre buscando e
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andreism1415@gmail.com)
 
 ---
-
-<p align="center">
 [HackerHackerManGIF (2)](https://github.com/user-attachments/assets/7214e917-a5ae-4879-ac6e-be7f461a4f89)
-</p>
