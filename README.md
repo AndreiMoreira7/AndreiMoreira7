@@ -24,8 +24,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sempre buscando e
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
-**Controle de Versão![HackerHackerManGIF (2)](https://github.com/user-attachments/assets/7214e917-a5ae-4879-ac6e-be7f461a4f89)
-:**
+**Controle de Versão!:**
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
@@ -40,6 +39,5 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, sempre buscando e
 ---
 
 <p align="center">
-    ![HackerHackerManGIF](https://github.com/user-attachments/assets/cce0f305-bff4-406a-a83a-78a43b31ca59)
-
+[HackerHackerManGIF (2)](https://github.com/user-attachments/assets/7214e917-a5ae-4879-ac6e-be7f461a4f89)
 </p>
